@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': 'Analysis', #DataBase Name
         'USER': 'Internal_Website',
         'PASSWORD': 'Stars@123',
-        'HOST': 'ANALYSIS\\ANALYSIS', #Server Name
+        'HOST': '172.16.17.12',
         'PORT': '1433',  # Default SQL Server port
         'OPTIONS': {
             'driver': 'ODBC Driver 17 for SQL Server',  
